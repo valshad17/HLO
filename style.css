@@ -1,0 +1,62 @@
+/* h1
+{
+    color: blueviolet;
+  
+} */
+
+/* div p{
+    background-color: aqua;
+} */
+
+/* div >p{
+    background-color: blue;
+} */
+/* div+p{
+    background-color: aqua;
+ } */
+
+/* div~p {
+    background-color: aqua;
+} */
+/* 
+a:link{
+    background-color: aqua;
+    color: red;
+}
+a:hover{
+    border-color: yellow;
+}
+a:active{
+    background-color: blue;
+}
+img{
+    opacity: 0.3;
+}
+img:hover{
+    opacity: 1;
+}
+p::first-line{
+    color: blue
+}
+p::first-letter{
+    color: brown;
+    font-size: xx-large;
+}
+p::after{
+    content: ;
+} */
+/* #box{
+    width: 300px;
+    height: 300px;
+    
+}
+body{
+    background-color: linear-gradient(90deg,yellow,orange,rgb(110,89,48));
+} */
+
+#box1{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    margin: ;
+}
